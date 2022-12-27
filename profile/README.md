@@ -3,6 +3,10 @@ We are a privately held firm based out of Charlotte, North Carolina. Our Avant-G
 
 Our Transformative Technologies ultimately provides our Clients with unimaginable Solutions to productivity and company advancements. Resulting in exponential growth and expansion, whilst creating a more serene apprehension towards company' quotas, missions, whilst simultaneously producing a healthier work-life balance for employees.
 
+
+### Copyright (c, ©, IP) 2021-2023 Leighton Avant-Garde Haus LLC 2021. All Rights Reserved
+
+
 # For further information, contact us via email: tech@theleightonhaus.com 
 ![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
 
