@@ -7,7 +7,7 @@ Our Transformative Technologies ultimately provides our Clients with unimaginabl
 ### Copyright (c) 2021-2023 Leighton Avant-Garde Haus LLC. All Rights Reserved
 
 
-# For further information, contact us via email: tech@theleightonhaus.com 
+# For further information, contact us via email: ai@theleightonhaus.com 
 ![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
 
 
