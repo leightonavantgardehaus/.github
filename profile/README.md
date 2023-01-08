@@ -11,7 +11,6 @@ Our Transformative Technologies ultimately provides our Clients with unimaginabl
   
   <h3 align="middle">
 
-  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/1lucien)
     
 ![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
 
