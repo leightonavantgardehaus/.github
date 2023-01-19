@@ -14,6 +14,6 @@ For further information, contact us via email: ai@theleightonhaus.com
     
 ![aimlinkedinbg12 14 (2)](https://user-images.githubusercontent.com/119469038/209342013-ad59d147-7591-4a96-8714-495374bf51ad.png)
 
-Copyright (c) 2023 Leighton Avant-Garde Haus. All Rights Reserved
+©2023 LEIGHTON AVANT-GARDE HAUS 
 
 <a href="https://linkedin.com/company/theleightonhaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leightonavantgardehaus" height="30" width="40" /></a>
