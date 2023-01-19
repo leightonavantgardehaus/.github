@@ -1,3 +1,6 @@
+![new6](https://user-images.githubusercontent.com/119469038/210111370-575c1231-49f1-4ec9-9e23-1bb764d4bd13.jpeg)
+
+
 # Leighton Avant-Garde Haus <a href="https://www.linkedin.com/company/theleightonhaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thelucienleighton" height="30" width="40" /></a>
 
 We are a privately held firm based out of Charlotte, North Carolina. Our Avant-Garde Technologies is driven to polar innovational advancements in Private Sector Enterprises. Our team is passionate in exceeding our mission to provide the necessary development for our future generations to evolve in technology. Leighton AGH' stack of unique Advanced Technologies serves our clients with unimaginable creative innovation.
