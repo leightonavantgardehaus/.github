@@ -13,4 +13,4 @@ Bespoke Technologies ultimately provides our Clients with unimaginable solutions
 
 ©2023 LEIGHTON AVANT-GARDE HAUS 
 
-    <a href="https://linkedin.com/company/theleightonhaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leightonavantgardehaus" height="30" width="40" /></a>
+ <a href="https://linkedin.com/company/theleightonhaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leightonavantgardehaus" height="30" width="40" /></a>
