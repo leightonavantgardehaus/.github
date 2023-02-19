@@ -22,6 +22,6 @@ Bespoke Technologies ultimately provides our Clients with unimaginable solutions
   <a href="https://leightonavantgardehaus.github.io">
   <img align="center" alt="Auth" width="30px" src="https://simpleicons.vercel.app/stackblitz/000" /> 
 
-<sub>©2023 AIM DYNAMIX</sub>
+<sub>©2023 LEIGHTON AVANT-GARDE HAUS</sub>
 
    
