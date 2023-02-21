@@ -1,7 +1,7 @@
 
   <h3 align="middle">
 
-![original_29505367e3e43e0e2f403a4f427f575e](https://user-images.githubusercontent.com/118361152/220478310-46e55f91-3419-4077-ae74-e5255d0196a4.gif)
+![leightonsrocket](https://user-images.githubusercontent.com/118361152/220478477-11de50f8-97ce-404a-941b-bf970be09094.gif)
 
 
 We are a privately held firm based out of Charlotte, North Carolina. Our Avant-Garde Technologies is driven to polar innovational advancements in Private Sector Enterprises. Our team is passionate in exceeding our mission to provide the necessary development for our future generations to evolve in technology. The Leighton IQX stack of unique Advanced Technologies serves our clients with unimaginable creative innovation.
