@@ -1,10 +1,18 @@
-![new6](https://user-images.githubusercontent.com/119469038/210111370-575c1231-49f1-4ec9-9e23-1bb764d4bd13.jpeg)
 
   <h3 align="middle">
 
-Leighton Avant-Garde Haus is a privately held firm based out of Charlotte, North Carolina. Our Avant-Garde Technologies is driven to polar innovational advancements in Private Sector Enterprises. Our team is passionate in exceeding our mission to provide the necessary development for our future generations to evolve in technology. Leighton AGH' stack of unique Advanced Technologies serves our clients with unimaginable creative innovation.
+![original_29505367e3e43e0e2f403a4f427f575e](https://user-images.githubusercontent.com/118361152/220478310-46e55f91-3419-4077-ae74-e5255d0196a4.gif)
 
-Bespoke Technologies ultimately provides our Clients with unimaginable solutions to productivity and company advancements. Resulting in exponential growth and expansion, creating a more serene apprehension towards company' quotas, missions, whilst simultaneously producing a healthier work-life balance for employees.
+
+We are a privately held firm based out of Charlotte, North Carolina. Our Avant-Garde Technologies is driven to polar innovational advancements in Private Sector Enterprises. Our team is passionate in exceeding our mission to provide the necessary development for our future generations to evolve in technology. The Leighton IQX stack of unique Advanced Technologies serves our clients with unimaginable creative innovation.
+
+Our bespoke technologies ultimately brings a comprehensive array of mission-critical advisory services to its clients from management consulting in the areas of strategy, performance, digital and IT, and revenue cycle, to clinical quality and patient safety services, medical staff services, and interim staffing, to strategic communications and change management.
+
+Leighton Avant-Garde Haus is dedicated to innovation, and determined to utilize our technology to create an impactful future for advancements in Healthcare and Integrative Healthcare with AIM DYNAMIX: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Intelligent Amalgamated Compositive Systems.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
+
+ Many of our most considerable advances grow from working across multiple teams, to executing real-world implications and applications. We are unafraid to go against established norms and explore creativity. Our primary drive is to generate breakthrough ideas and convert them into solutions. We respect innovation over tradition. We trust that our differences make us more robust, and so we seek reason within every difference of perspective. 
+
+ primary drive is to generate breakthrough ideas and convert them into solutions. We respect innovation over tradition. We trust that our differences make us more robust, and so we seek reason within every difference of perspective.
 
  
   <h3 align="middle">
