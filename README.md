@@ -8,8 +8,12 @@
  <h3 align="middle">
  
    
-  <a href="https://linkedin.com/company/theleightonhaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="45" width="55" /></a>
+<h3 align="middle">
+  <img width="175" alt="Lhauslogoupdated" src="https://user-images.githubusercontent.com/119469038/220439784-45fd073d-efac-478e-8192-2ba05a678826.png">
+
+ <h3 align="middle">
  
+    
   <h6 align="middle">
 
   <a href="https://leightonavantgardehaus.github.io">
