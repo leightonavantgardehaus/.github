@@ -1,6 +1,6 @@
 # Copyright and License Policy
 
-### License 
+ 
 Copyright (c, ©, IP) 2021-2023 Leighton Avant-Garde Haus LLC 2021. All Rights Reserved
 
 Copyright (c, ©, IP) 2022-2023 AIM DYNAMIX, L.AgH 2022. All Rights Reserved
@@ -84,7 +84,7 @@ Except solely as necessary for you to access the Sites for the intended purpose 
 
 
 
-### 3. Subject to your compliance with these Terms, solely for so long as you are permitted by Leighton Avant-Garde Haus to access and use the Sites, and provided that you keep intact all copyright and other proprietary notices, you may view Content and you may download and print the materials that Noble.AI specifically makes available for downloading from the Sites (such as white papers or user documentation), in each case solely for informational purposes and solely for personal or internal business use. INFORMATION SUBMITTED THROUGH OR TO OUR SITES
+### 3. Subject to your compliance with these Terms, solely for so long as you are permitted by Leighton Avant-Garde Haus to access and use the Sites, and provided that you keep intact all copyright and other proprietary notices, you may view Content and you may download and print the materials that Leighton Avant-Garde Haus specifically makes available for downloading from the Sites (such as white papers or user documentation), in each case solely for informational purposes and solely for personal or internal business use. INFORMATION SUBMITTED THROUGH OR TO OUR SITES
 
 ‍
 
@@ -116,7 +116,7 @@ For each Submission, you represent and warrant that you have all rights necessar
 
 ‍
 
-By accepting these Terms, you agree to our collection, use, and disclosure of your information as described in the Privacy Policy. No one under age 18 may register for an Account or provide any personal information to Leighton Avant-Garde Haus or to the Sites. If we learn that we have collected personal information from or about anyone under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at support@noble.ai with the subject “Child Data“.
+By accepting these Terms, you agree to our collection, use, and disclosure of your information as described in the Privacy Policy. No one under age 18 may register for an Account or provide any personal information to Leighton Avant-Garde Haus or to the Sites. If we learn that we have collected personal information from or about anyone under age 18, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 18, please contact us at ai@theleightonhaus.com with the subject “Child Data“.
 
 Leighton Avant-Garde reserves the right to disclose any Submissions, and the circumstances surrounding their transmission, to any third party to operate the Sites, to protect Leighton Avant-Garde Haus or its suppliers or representatives, to protect users of the Sites, to comply with legal or regulatory obligations, to enforce these Terms, or for any other reason. Leighton Avant-Garde Haus is not responsible or liable for the conduct of, or your interactions with, any other users of the Sites (whether online or offline), or for any associated loss, damage, injury or harm. By using the Site, you may be exposed to Submissions that are offensive, indecent or objectionable and you agree that Leighton Avant-Garde Haus bears no liability for such exposure.
 
@@ -319,7 +319,8 @@ Another part of our priority is adding protection for children while using the i
 
 theleightonhaus does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
 
-<h3 align="middle">
+
+<h4 align="middle">
   <img width="175" alt="Lhauslogoupdated" src="https://user-images.githubusercontent.com/119469038/220439784-45fd073d-efac-478e-8192-2ba05a678826.png">
 
  <h3 align="middle">
