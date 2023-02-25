@@ -1,7 +1,7 @@
 
   <h4 align="middle">
 
-![leightonsrocket](https://user-images.githubusercontent.com/118361152/220478477-11de50f8-97ce-404a-941b-bf970be09094.gif)
+![new6](https://user-images.githubusercontent.com/117833954/221325178-ce885b47-f26a-4849-9ffb-f8a3f1dd7cf4.jpeg)
 
 Leighton Avant-Garde Haus is dedicated to innovation, and determined to utilize our technology to create an impactful future for advancements in Private Sector Enterprises, Operations, and Management. Extending to Healthcare and Integrative Healthcare with AIM DYNAMIX: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Intelligent Amalgamated Compositive Systems.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
 
