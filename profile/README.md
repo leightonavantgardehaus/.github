@@ -3,6 +3,9 @@
 
 ![new6](https://user-images.githubusercontent.com/117833954/221325178-ce885b47-f26a-4849-9ffb-f8a3f1dd7cf4.jpeg)
 
+Leighton Avant-Garde Haus is in transitioning phase of the Company Image, including our domain site! Our Operations relays gratitude to the patience of this evolution.
+
+
 Leighton Avant-Garde Haus is dedicated to innovation, and determined to utilize our technology to create an impactful future for advancements in Private Sector Enterprises, Operations, and Management. Extending to Healthcare and Integrative Healthcare with AIM DYNAMIX: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Intelligent Amalgamated Compositive Systems.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
 
 We are a privately held firm based out of Charlotte, North Carolina. Our Avant-Garde Technologies is driven to polar innovational advancements in Private Sector Enterprises. Our team is passionate in exceeding our mission to provide the necessary development for our future generations to evolve in technology. The Leighton IQX stack of unique Advanced Technologies serves our clients with unimaginable creative innovation.
