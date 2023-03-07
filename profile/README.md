@@ -1,7 +1,7 @@
 
   <h4 align="middle">
 
-![new6](https://user-images.githubusercontent.com/117833954/221325178-ce885b47-f26a-4849-9ffb-f8a3f1dd7cf4.jpeg)
+ ![leightoniqx](https://user-images.githubusercontent.com/119469038/223314153-503908f2-f844-40d2-91b6-7d8fd6fc22a9.gif)
 
 
 Leighton Avant-Garde Haus is dedicated to innovation, and determined to utilize our technology to create an impactful future for advancements in Private Sector Enterprises, Operations, and Management. Extending to Healthcare and Integrative Healthcare with Xerataus: inventing new technologies that could expand our abilities, our community, and our world. We are striving to improve the lives of countless individuals by integrating Intelligent Amalgamated Compositive Systems.  This cutting-edge technology is being developed by a talented and mission-driven team whose diverse perspectives and lived experiences strengthen our ability to creatively problem solve and execute solutions in the Healthcare Industry.
@@ -27,9 +27,6 @@ Leighton IQX bespoke technologies ultimately brings a comprehensive array of mis
   <a href="https://linkedin.com/company/theleightonhaus/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aimdynamix" height="45" width="55" /></a>
  
   <h6 align="middle">
-
-  <a href="https://leightonavantgardehaus.github.io">
-  <img align="center" alt="Auth" width="30px" src="https://simpleicons.vercel.app/stackblitz/000" /> 
 
 <sub>©2023 LEIGHTON AVANT-GARDE HAUS</sub>
 
