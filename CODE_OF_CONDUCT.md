@@ -113,7 +113,6 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-## Attribution
 
 <h3 align="middle">
   <img width="175" alt="Lhauslogoupdated" src="https://user-images.githubusercontent.com/119469038/220439784-45fd073d-efac-478e-8192-2ba05a678826.png">
