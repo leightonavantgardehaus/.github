@@ -61,7 +61,7 @@ representative at an online or offline event.
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-kelly@theleightonhaus.com.
+mgmt@theleightonhaus.com.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
@@ -122,7 +122,5 @@ the community.
     
   <h6 align="middle">
 
-  <a href="https://leightonavantgardehaus.github.io">
-  <img align="center" alt="Auth" width="30px" src="https://simpleicons.vercel.app/stackblitz/000" /> 
 
-<sub>©2023 LEIGHTON AVANT-GARDE HAUS</sub>
+<sub>©2025 LEIGHTON AVANT-GARDE HAUS</sub>
