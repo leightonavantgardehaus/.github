@@ -10,7 +10,4 @@
     
   <h6 align="middle">
 
-  <a href="https://leightonavantgardehaus.github.io">
-  <img align="center" alt="Auth" width="30px" src="https://simpleicons.vercel.app/stackblitz/000" /> 
-
-<sub>©2023 LEIGHTON AVANT-GARDE HAUS</sub>
+<sub>©2025 LEIGHTON AVANT-GARDE HAUS</sub>
