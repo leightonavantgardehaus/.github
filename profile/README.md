@@ -19,6 +19,6 @@ Many of our most considerable advances grow from working across multiple teams, 
  
   <h6 align="middle">
 
-<sub>©2025 LEIGHTON AVANT-GARDE HAUS</sub>
+<sub>©2026 LEIGHTON AVANT-GARDE HAUS</sub>
 
    
