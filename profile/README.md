@@ -11,6 +11,6 @@ Dynamic AI and strategic intelligence solutions for all-domain national security
  
   <h6 align="middle">
 
-<sub>©2026 LEIGHTON AVANT-GARDE HAUS</sub>
+<sub>©2026 Leighton Dynamica</sub>
 
    
