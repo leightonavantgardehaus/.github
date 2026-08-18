@@ -1,6 +1,6 @@
 
   <h3 align="middle">
-  <img width="500" alt="LeightonDynamica" src="https://github.com/leightonavantgardehaus/.github/blob/main/iqx250.png">
+  <img width="500" alt="LeightonDynamica" src="https://github.com/leightonavantgardehaus/.github/blob/main/iqx250-holo.png">
 
   <h6 align="middle">
 
