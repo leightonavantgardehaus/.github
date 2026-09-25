@@ -4,6 +4,6 @@
 
   <h6 align="middle">
 
-<sub>©2026 Leighton Dynamica</sub>
+<sub>©2027 Leighton Dynamica</sub>
 
    
